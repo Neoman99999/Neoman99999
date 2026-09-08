@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 UX/UI Design, AI, Mobile App Developer, Web Developer.
 ------------------------------------------------------
 
-I'm a Computer Science student at Prince of Songkla University with experience in mobile application development, UX/UI design, and Machine Learning. I have worked with Java, React Native, Firebase, Figma, and scikit-learn, and I'm passionate about building practical applications and AI-driven solutions. I'm currently seeking opportunities to gain real-world experience and further develop my skills in AI and mobile application development.
+I'm a Computer Science student at Prince of Songkla University with experience in mobile application development, UX/UI design, and Machine Learning. I have worked with Java, React Native, Firebase, Figma, and scikit-learn. I'm passionate about building practical applications and AI-driven solutions. I'm currently seeking opportunities to gain real-world experience and further develop my skills in AI and mobile application development.
 
 * 🌍  I'm based in Songkhla
 * ✉️  You can contact me at [neoman99999@gmail.com](mailto:neoman99999@gmail.com)
