@@ -17,9 +17,35 @@ I'm a Computer Science student at Prince of Songkla University with experience i
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/Neoman99999" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" /> </picture> </a> <a href="https://www.gitlab.com/Neoman99999" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gitlab.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/gitlab.svg" width="32" height="32" alt="GitLab" title="GitLab" /> </picture> </a> <a href="https://www.youtube.com/@neoch3959" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" alt="YouTube" title="YouTube" /> </picture> </a> <a href="https://discord.com/users/king00599" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" alt="Discord" title="Discord" /> </picture> </a> <a href="https://www.facebook.com/weloveneo" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" alt="Facebook" title="Facebook" /> </picture> </a></p>
-<a href="https://www.github.com/Neoman99999" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/Neoman99999?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<p <p align="left">
+  <a href="https://www.github.com/Neoman99999" target="_blank" rel="noreferrer">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" />
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" />
+      <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="GitHub" title="GitHub" />
+    </picture>
+  </a>
+
+  <a href="https://www.gitlab.com/Neoman99999" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/gitlab" width="32" height="32" alt="GitLab" title="GitLab" />
+  </a>
+
+  <a href="https://www.instagram.com/devilbutler_hn" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/instagram" width="32" height="32" alt="Instagram" title="Instagram" />
+  </a>
+
+  <a href="https://www.youtube.com/@neoch3959" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/youtube" width="32" height="32" alt="YouTube" title="YouTube" />
+  </a>
+
+  <a href="https://discord.com/users/king00599" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/discord" width="32" height="32" alt="Discord" title="Discord" />
+  </a>
+
+  <a href="https://www.facebook.com/weloveneo" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/facebook" width="32" height="32" alt="Facebook" title="Facebook" />
+  </a>
+</p>
 
 
 <b>My GitHub Stats</b>
